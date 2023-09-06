@@ -1,0 +1,197 @@
+@font-face {
+    font-family: "Malvie";
+    src: url("fonts/Malvie\ Trial.otf");
+}
+
+@font-face {
+    font-family: "Honey";
+    src: url("fonts/HONEYSCRIPT-LIGHT.TTF");
+}
+
+* {
+    font-family: "Malvie";
+    font-size: 14px;
+}
+
+.logo {
+    height: 130px;
+    background-image: url("resources/tlogo4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.title01 {
+    font-family: cursive;
+    font-size: 38px;
+    letter-spacing: 3px;
+    color: lavender;
+}
+
+.adminpanel {
+    font-family: cursive;
+    font-size: 38px;
+    letter-spacing: 3px;
+    color: rgb(15, 15, 35);
+}
+
+.label1 {
+    font-size: 15px;
+}
+
+.main-body {
+    background-image: url("resources/profiles/4.webp");
+}
+
+.index-body {
+    background-image: url("resources/timeindex.jpg");
+}
+
+.signUpBox {
+    /* background-color: rgb(235, 225, 165); */
+    background-image: linear-gradient(90deg, #e5ecea 0%, #534d4f 100%);
+}
+
+.homebackground {
+    /* background-color: rgb(235, 225, 165); */
+    background-image: linear-gradient(90deg, #ece6e6 0%, #ebe2ef 100%);
+}
+
+.footerBox {
+    /* background-color: rgb(235, 225, 165); */
+    background-image: linear-gradient(90deg, #007ADF 0%, #00ECBC 100%);
+}
+
+.signInBox {
+    /* background-color: rgb(223, 191, 104); */
+    background-image: linear-gradient(90deg, #F5F7FA 0%, #434c5b 100%);
+}
+
+.buttonBox {
+    /* background-color: rgb(223, 191, 104); */
+    background-image: linear-gradient(90deg, #92FFC0 0%, #002661 100%);
+}
+
+.button2 {
+    /* background-color: rgb(223, 191, 104); */
+    background-image: linear-gradient(90deg, #A71D31 0%, #3F0D12 100%);
+}
+
+.title02 {
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.logo-img {
+    height: 60px;
+    background-image: url("resources/tlogo4.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.search-btn {
+    height: 44px;
+}
+
+.poster-title1 {
+    font-size: 40px;
+    color: black;
+    background-size: 30px;
+    font-weight: bolder;
+    margin-right: 5cm;
+}
+
+.poster-text1 {
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 5cm;
+}
+
+.poster-title2 {
+    color: black;
+    font-weight: bolder;
+    font-size: 40px;
+    margin-left: 8cm;
+}
+
+.poster-text2 {
+    color: black;
+    font-weight: bolder;
+    font-size: 17px;
+    height: 210px;
+    margin-left: 8cm;
+}
+
+.link2 {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.link2:hover {
+    text-decoration: underline;
+}
+
+.link3 {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.link3:hover {
+    text-decoration: underline;
+}
+
+.card-img-top {
+    height: 37vh;
+}
+
+.btn-outline-orange {
+    color: rgb(71, 66, 66);
+}
+
+.btn-outline-orange:hover {
+    color: rgb(71, 66, 66);
+    border-width: 1px;
+    border-color: #070707;
+}
+
+.pm1 {
+    height: 65px;
+    background-image: url("resources/perment/paypal_img.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pm2 {
+    height: 65px;
+    background-image: url("resources/perment/visa_img.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pm3 {
+    height: 65px;
+    background-image: url("resources/perment/paypal_img.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pm4 {
+    height: 65px;
+    background-image: url("resources/perment/american_express_img.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.hed1 {
+    color: rgb(58, 28, 47);
+    font-size: 16px;
+}
+
+.a1 {
+    background-color: rgba(247, 225, 204, 0.753);
+    border-bottom: rgb(49, 34, 49);
+}
